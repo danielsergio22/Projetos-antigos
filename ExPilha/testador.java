@@ -1,6 +1,6 @@
 package antigos.ExPilha;
 
-public class teste {
+public class testador {
   public static void main(String[] args) {
     ListaDeInteiros lista = new ListaDeInteiros(5);
 
