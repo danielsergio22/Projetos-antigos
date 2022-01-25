@@ -42,6 +42,8 @@ public class mainteste {
                 novaFila.remover();
                 System.out.println(novaFila);
                 break;
+            default:
+                System.out.println("Opção invalida");
             }
         } while (opcao != 0);
         System.out.println(novaFila);
